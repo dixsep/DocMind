@@ -37,5 +37,6 @@ Shared global state for context awareness
 The Agent Workflow maintains a shared state, allowing each step (retrieval, reasoning, verification) to reference previous interactions and refine responses dynamically.
 This enables context-aware follow-up questions, ensuring that users can refine their queries without losing track of previous answers.
 
-
+![Workflow](agents_workflow.jpg)
+![Demo App](App.png)
 
